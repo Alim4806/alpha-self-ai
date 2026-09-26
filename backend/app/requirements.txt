@@ -1,0 +1,10 @@
+# Runtime dependencies
+fastapi==0.140.0
+uvicorn==0.51.0
+SQLAlchemy==2.0.51
+pydantic==2.13.4
+python-dotenv==1.2.2
+
+# Dev / test dependencies
+pytest==9.1.1
+httpx==0.28.1
